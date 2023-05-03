@@ -1,0 +1,24 @@
+{
+  "kabum": {
+    "url": "https://www.kabum.com.br/",
+    "carrinho": "https://www.kabum.com.br/carrinho",
+    "cashback": "https://google.com/",
+    "cupons": [
+      "TESTE",
+      "TESTE2",
+      "TESTE3",
+      "TESTE4"
+    ]
+  },
+  "casasbahia": {
+    "url": "https://www.casasbahia.com.br/",
+    "carrinho": "https://carrinho.casasbahia.com.br/",
+    "cashback": "https://google.com/",
+    "cupons": [
+      "TESTE",
+      "TESTE2",
+      "TESTE3",
+      "PRESENTE"
+    ]
+  }
+}
