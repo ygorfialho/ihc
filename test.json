@@ -38,5 +38,15 @@
       "TESTE3",
       "PRESENTE"
     ]
+  },
+  "www.americanas.com.br": {
+    "carrinho": "www.google.com",
+    "cashback": "https://google.com/",
+    "cupons": [
+      "TESTE",
+      "TESTE2",
+      "TESTE3",
+      "PRESENTE"
+    ]
   }
 }
