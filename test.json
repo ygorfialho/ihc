@@ -15,44 +15,44 @@
 			"info": ".Coupon-styles__Message-sc-bb10faf5-8"
 		}
 	},
-  "www.casasbahia.com.br": {
-    "carrinho": "https://carrinho.casasbahia.com.br/",
-    "cashback": "https://google.com/",
-    "cupons": [
-      "TESTE",
-      "TESTE2",
-      "TESTE3",
-      "PRESENTE"
-    ]
-  },
-  "www.google.com": {
-    "carrinho": "www.google.com",
-    "cashback": "https://google.com/",
-    "cupons": [
-      "TESTE",
-      "TESTE2",
-      "TESTE3",
-      "PRESENTE"
-    ]
-  },
-  "www.terabyteshop.com.br": {
-    "carrinho": "www.google.com",
-    "cashback": "https://google.com/",
-    "cupons": [
-      "TESTE",
-      "TESTE2",
-      "TESTE3",
-      "PRESENTE"
-    ]
-  },
-  "www.americanas.com.br": {
-    "carrinho": "www.google.com",
-    "cashback": "https://google.com/",
-    "cupons": [
-      "TESTE",
-      "TESTE2",
-      "TESTE3",
-      "PRESENTE"
-    ]
-  }
+	"www.casasbahia.com.br": {
+		"carrinho": "https://carrinho.casasbahia.com.br/",
+		"cashback": "https://google.com/",
+		"cupons": [
+			"TESTE",
+			"TESTE2",
+			"TESTE3",
+			"PRESENTE"
+		]
+	},
+	"www.google.com": {
+		"carrinho": "www.google.com",
+		"cashback": "https://google.com/",
+		"cupons": [
+			"TESTE",
+			"TESTE2",
+			"TESTE3",
+			"PRESENTE"
+		]
+	},
+	"www.terabyteshop.com.br": {
+		"carrinho": "www.google.com",
+		"cashback": "https://google.com/",
+		"cupons": [
+			"TESTE",
+			"TESTE2",
+			"TESTE3",
+			"PRESENTE"
+		]
+	},
+	"www.americanas.com.br": {
+		"carrinho": "www.google.com",
+		"cashback": "https://google.com/",
+		"cupons": [
+			"TESTE",
+			"TESTE2",
+			"TESTE3",
+			"PRESENTE"
+		]
+	}
 }
