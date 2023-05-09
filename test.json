@@ -1,15 +1,20 @@
 {
-  "www.kabum.com.br": {
-    "carrinho": "https://www.kabum.com.br/carrinho",
-    "cashback": "https://google.com/",
-    "cupons": [
-      "TESTE",
-      "TESTE2",
-      "TESTE3",
-      "5HD",
-      "TESTE4"
-    ]
-  },
+	"www.kabum.com.br": {
+		"carrinho": "https://www.kabum.com.br/carrinho",
+		"cashback": "https://google.com/",
+		"cupons": [
+			"TESTE",
+			"TESTE2",
+			"TESTE3",
+			"5HD",
+			"TESTE4"
+		],
+		"query": {
+			"input": ".MuiInputBase-input.MuiOutlinedInput-input",
+			"button": "#__next > div.sc-kuWgmH.PageCart-styles__Container-sc-d6480e32-0.lbhOso.evUrND > div > div > div.Products-styles__ProductsWrapper-sc-7740f8ad-0.cDSIQl > div > section > div > form > button",
+			"info": ".Coupon-styles__Message-sc-bb10faf5-8"
+		}
+	},
   "www.casasbahia.com.br": {
     "carrinho": "https://carrinho.casasbahia.com.br/",
     "cashback": "https://google.com/",
