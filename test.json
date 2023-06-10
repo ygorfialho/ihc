@@ -30,7 +30,7 @@
 			"open": "#root > div > div.App.clearfix > div > div.Promocode > form > label",
 			"input": "#PromocodeInput",
 			"button": ".buttonWithin",
-			"info": ".Promocode__error-message"
+			"info": ".Promocode-promocode__value"
 		}
 	},
 	"www.google.com": {
