@@ -16,16 +16,22 @@
 			"info": ".Coupon-styles__Message-sc-bb10faf5-8"
 		}
 	},
-	"www.americanas.com.br": {
-		"carrinho": "https://sacola.americanas.com.br/compra/pagamentos/",
+	"www.magazineluiza.com.br": {
+		"carrinho": "https://sacola.magazineluiza.com.br/#/pagamento",
 		"cashback": "https://google.com/",
 		"cupons": [
 			"TESTE",
 			"TESTE2",
 			"TESTE3",
-			"LER10",
+			"CJ15",
 			"PRESENTE"
-		]
+		],
+		"query": {
+			"open": "#root > div > div.App.clearfix > div > div.Promocode > form > label",
+			"input": "#PromocodeInput",
+			"button": ".buttonWithin",
+			"info": ".Promocode__error-message"
+		}
 	},
 	"www.google.com": {
 		"carrinho": "www.google.com",
@@ -38,16 +44,6 @@
 		]
 	},
 	"www.terabyteshop.com.br": {
-		"carrinho": "www.google.com",
-		"cashback": "https://google.com/",
-		"cupons": [
-			"TESTE",
-			"TESTE2",
-			"TESTE3",
-			"PRESENTE"
-		]
-	},
-	"www.americanas.com.br": {
 		"carrinho": "www.google.com",
 		"cashback": "https://google.com/",
 		"cupons": [
