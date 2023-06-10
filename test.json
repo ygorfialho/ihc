@@ -16,13 +16,14 @@
 			"info": ".Coupon-styles__Message-sc-bb10faf5-8"
 		}
 	},
-	"www.casasbahia.com.br": {
-		"carrinho": "https://carrinho.casasbahia.com.br/",
+	"www.americanas.com.br": {
+		"carrinho": "https://sacola.americanas.com.br/compra/pagamentos/",
 		"cashback": "https://google.com/",
 		"cupons": [
 			"TESTE",
 			"TESTE2",
 			"TESTE3",
+			"LER10",
 			"PRESENTE"
 		]
 	},
